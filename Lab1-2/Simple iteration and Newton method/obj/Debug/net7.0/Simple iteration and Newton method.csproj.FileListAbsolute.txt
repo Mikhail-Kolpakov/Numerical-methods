@@ -1,0 +1,15 @@
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\bin\Debug\net7.0\Simple iteration and Newton method.exe
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\bin\Debug\net7.0\Simple iteration and Newton method.deps.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\bin\Debug\net7.0\Simple iteration and Newton method.runtimeconfig.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\bin\Debug\net7.0\Simple iteration and Newton method.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\bin\Debug\net7.0\Simple iteration and Newton method.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\Simple iteration and Newton method.csproj.AssemblyReference.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\Simple iteration and Newton method.GeneratedMSBuildEditorConfig.editorconfig
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\Simple iteration and Newton method.AssemblyInfoInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\Simple iteration and Newton method.AssemblyInfo.cs
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\Simple iteration and Newton method.csproj.CoreCompileInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\Simple iteration and Newton method.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\refint\Simple iteration and Newton method.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\Simple iteration and Newton method.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\Simple iteration and Newton method.genruntimeconfig.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab1-2\Simple iteration and Newton method\obj\Debug\net7.0\ref\Simple iteration and Newton method.dll
