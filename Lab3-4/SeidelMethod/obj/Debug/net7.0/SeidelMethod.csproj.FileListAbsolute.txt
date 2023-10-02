@@ -1,0 +1,15 @@
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\bin\Debug\net7.0\SeidelMethod.exe
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\bin\Debug\net7.0\SeidelMethod.deps.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\bin\Debug\net7.0\SeidelMethod.runtimeconfig.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\bin\Debug\net7.0\SeidelMethod.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\bin\Debug\net7.0\SeidelMethod.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\SeidelMethod.csproj.AssemblyReference.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\SeidelMethod.GeneratedMSBuildEditorConfig.editorconfig
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\SeidelMethod.AssemblyInfoInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\SeidelMethod.AssemblyInfo.cs
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\SeidelMethod.csproj.CoreCompileInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\SeidelMethod.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\refint\SeidelMethod.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\SeidelMethod.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\SeidelMethod.genruntimeconfig.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab3-4\SeidelMethod\obj\Debug\net7.0\ref\SeidelMethod.dll
