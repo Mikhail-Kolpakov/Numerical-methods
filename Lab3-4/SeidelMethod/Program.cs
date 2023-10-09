@@ -54,8 +54,8 @@ class Seidel
 
     public Seidel(double[,] Matrix, double[] FreeElements, double Accuracy)
     {
-        this.matrix = Matrix;
-        this.additional = FreeElements;
+        matrix = Matrix;
+        additional = FreeElements;
         this.Accuracy = Accuracy;
     }
 
@@ -82,7 +82,6 @@ class Seidel
             {
                 currentValues[i] = a[i, a.GetLength(0)]; //Ініціалізація i-тої невідомої значенням вільного члена i-тої рядка матриці
 
-                //Віднімання суми всіх відмінних від i-тої невідомих
                 for (int j = 0; j < a.GetLength(0); j++)
                 {
                     //Для j < i використовуємо значення, обчислені на цьому кроці
@@ -98,7 +97,7 @@ class Seidel
             }
 
             //Обчислення поточної похибки відносно попереднього кроку
-            double differency = 0.0; 
+            double differency = 0; 
 
             for (int i = 0; i < a.GetLength(0); i++)
                 differency += Math.Abs(currentValues[i] - previousValues[i]);
