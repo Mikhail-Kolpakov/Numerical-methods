@@ -1,0 +1,14 @@
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\bin\Debug\net7.0\Gradient.exe
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\bin\Debug\net7.0\Gradient.deps.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\bin\Debug\net7.0\Gradient.runtimeconfig.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\bin\Debug\net7.0\Gradient.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\bin\Debug\net7.0\Gradient.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\Gradient.GeneratedMSBuildEditorConfig.editorconfig
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\Gradient.AssemblyInfoInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\Gradient.AssemblyInfo.cs
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\Gradient.csproj.CoreCompileInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\Gradient.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\refint\Gradient.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\Gradient.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\Gradient.genruntimeconfig.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab5\Gradient\obj\Debug\net7.0\ref\Gradient.dll
