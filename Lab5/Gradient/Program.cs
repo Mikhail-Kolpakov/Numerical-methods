@@ -1,4 +1,4 @@
-﻿//Варіант #12
+﻿//Варіант #9
 using System.Text;
 
 const int N = 3;
