@@ -1,0 +1,14 @@
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\bin\Debug\net7.0\Interpolation.exe
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\bin\Debug\net7.0\Interpolation.deps.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\bin\Debug\net7.0\Interpolation.runtimeconfig.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\bin\Debug\net7.0\Interpolation.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\bin\Debug\net7.0\Interpolation.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\Interpolation.AssemblyInfoInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\Interpolation.AssemblyInfo.cs
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\Interpolation.csproj.CoreCompileInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\Interpolation.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\refint\Interpolation.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\Interpolation.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\Interpolation.genruntimeconfig.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab7-8\Interpolation\obj\Debug\net7.0\ref\Interpolation.dll
