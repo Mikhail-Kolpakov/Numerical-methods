@@ -1,19 +1,22 @@
 ﻿//Варіант #9
 using System.Text;
 
-const int N = 3;
-const double epsilon = 0.0001;
+double epsilon;
 double maxGradient;
-double[] solution = Enumerable.Repeat(1.0, N).ToArray();
+double[] solution = new double[3];
 double[] gradientU;
 int counter = 0;
 
 Console.OutputEncoding = Encoding.UTF8;
 
-Console.WriteLine($"Точність: {epsilon}");
-Console.WriteLine("\nПочаткове наближення для x: ");
+Console.WriteLine("Введіть початкове наближення для x: ");
 for (int i = 0; i < solution.Length; i++)
-    Console.WriteLine($"Для x{i} = {solution[i]}");
+{
+    Console.Write($"Для x{i} = ");
+    double.TryParse(Console.ReadLine(), out solution[i]);
+}
+Console.WriteLine("Введіть точність:");
+double.TryParse(Console.ReadLine(), out epsilon);
 
 while (true)
 {
@@ -32,7 +35,7 @@ while (true)
 Console.WriteLine("\nРозв'язання системи: ");
 foreach (double value in solution)
     Console.Write($"{string.Format("{0:f2}", value)} ");
-Console.WriteLine($"\nКількість виконаних ітерацій: {counter}");
+Console.WriteLine($"\nКількість виконаних кроків: {counter}");
 Console.WriteLine($"Похибка обчислень: {string.Format("{0:f9}", maxGradient)}");
 
 static double[] CalculateGradient(double x, double y, double z)

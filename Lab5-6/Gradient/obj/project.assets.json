@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab5\\Gradient\\Gradient.csproj",
+      "projectUniqueName": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab5-6\\Gradient\\Gradient.csproj",
       "projectName": "Gradient",
-      "projectPath": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab5\\Gradient\\Gradient.csproj",
+      "projectPath": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab5-6\\Gradient\\Gradient.csproj",
       "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-      "outputPath": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab5\\Gradient\\obj\\",
+      "outputPath": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab5-6\\Gradient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
