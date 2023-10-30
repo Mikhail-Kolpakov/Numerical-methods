@@ -15,7 +15,7 @@ for (int i = 0; i < solution.Length; i++)
     Console.Write($"Для x{i} = ");
     double.TryParse(Console.ReadLine(), out solution[i]);
 }
-Console.WriteLine("Введіть точність:");
+Console.WriteLine("\nВведіть точність:");
 double.TryParse(Console.ReadLine(), out epsilon);
 
 while (true)
