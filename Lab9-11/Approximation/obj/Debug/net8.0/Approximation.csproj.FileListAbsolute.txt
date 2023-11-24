@@ -1,0 +1,15 @@
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.exe
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.deps.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.runtimeconfig.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.AssemblyInfoInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.AssemblyInfo.cs
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.csproj.CoreCompileInputs.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.sourcelink.json
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\refint\Approximation.dll
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.pdb
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.genruntimeconfig.cache
+F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\ref\Approximation.dll
