@@ -90,12 +90,6 @@ void DisplayTable(double[] averageX, double[] averageY, double[] regressionY, do
 
 void FindA0AndA1(double[] X, double[] Y, int n, out double a0, out double a1)
 {
-    Console.WriteLine("\nДля a1: ");//
-    Console.WriteLine($"1. {X.Zip(Y, (x, y) => Math.Log(x) * y).Sum()}");
-    Console.WriteLine($"2. {X.Sum(x => Math.Log(x))}");
-    Console.WriteLine($"3. {Y.Sum()}");
-    Console.WriteLine($"4. {X.Sum(x => Math.Pow(Math.Log(x), 2))}");
-    Console.WriteLine($"5. {Math.Pow(X.Sum(x => Math.Log(x)), 2)}\n");//
     a1 = (X.Zip(Y, (x, y) => Math.Log(x) * y).Sum() - 1 / n * X.Sum(x => Math.Log(x)) * Y.Sum())
         / (X.Sum(x => Math.Pow(Math.Log(x), 2)) - 1 / n * Math.Pow(X.Sum(x => Math.Log(x)), 2));
     a0 = 1 / n * Y.Sum() - a1 / n * X.Sum(x => Math.Log(x));
