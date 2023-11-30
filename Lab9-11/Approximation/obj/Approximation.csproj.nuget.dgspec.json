@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj": {}
+    "D:\\Домашня робота університет\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj": {}
   },
   "projects": {
-    "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj": {
+    "D:\\Домашня робота університет\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj",
+        "projectUniqueName": "D:\\Домашня робота університет\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj",
         "projectName": "Approximation",
-        "projectPath": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj",
-        "packagesPath": "C:\\Users\\AMD\\.nuget\\packages\\",
-        "outputPath": "F:\\Миша\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\obj\\",
+        "projectPath": "D:\\Домашня робота університет\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\Домашня робота університет\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\AMD\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

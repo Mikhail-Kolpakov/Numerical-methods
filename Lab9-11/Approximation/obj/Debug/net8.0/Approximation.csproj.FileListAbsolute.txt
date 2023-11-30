@@ -13,3 +13,18 @@ F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximatio
 F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.pdb
 F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.genruntimeconfig.cache
 F:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\ref\Approximation.dll
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.exe
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.deps.json
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.runtimeconfig.json
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.dll
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.pdb
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.AssemblyInfoInputs.cache
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.AssemblyInfo.cs
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.csproj.CoreCompileInputs.cache
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.sourcelink.json
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.dll
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\refint\Approximation.dll
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.pdb
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.genruntimeconfig.cache
+D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\ref\Approximation.dll
