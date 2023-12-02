@@ -105,7 +105,7 @@ void CalculateTableData(double[] X, double[] Y, out double[] averageX, out doubl
     values = [arithMeanY, geomMeanY, harmMeanY];
     averageY = Enumerable.Range(0, n).Select(i => values[i / 3]).ToArray();
 
-    regressionY = CalculateRegression(averageX, X, Y); //Вираховуємо Y регресійне
+    regressionY = CalculateRegression(averageX, X, Y, averageX); //Вираховуємо Y регресійне
     absValues = CalculateAbsoluteValues(averageY, regressionY); // Розраховуємо абсолютні значення
 }
 
@@ -113,23 +113,31 @@ void DisplayTable(double[] averageX, double[] averageY, double[] regressionY, do
 {
     Console.WriteLine("N\t|\tX-сер\t|\tY-сер\t|\tY^\t|\tФормула\t|");
     for (int i = 0; i < finalValues.Length; i++)
-        Console.WriteLine($"{i + 1}\t|\t{averageX[i]:f4}\t|\t{averageY[i]:f4}\t|\t{regressionY[i]:f5}\t|\t{finalValues[i]:f5}\t|");
+        Console.WriteLine($"{i + 1}\t|\t{averageX[i]:f3}\t|\t{averageY[i]:f3}\t|\t{regressionY[i]:f4}\t|\t{finalValues[i]:f4}\t|");
 }
 
-double[] CalculateRegression(double[] valuesX, double[] arrayX, double[] arrayY) // Метод для знаходження Y регресійного
+double[] CalculateRegression(double[] valuesX, double[] arrayX, double[] arrayY, double[] averageX) // Метод для знаходження Y регресійного
 {
     double[] regressionY = new double[arrayX.Length];
 
     for (int i = 0; i < regressionY.Length; i++)
     {
-        double lowerBoundX = arrayX.Where(v => v <= valuesX[i]).Max();
-        double upperBoundX = arrayX.Where(v => v >= valuesX[i]).Min();
+        if (arrayX.Contains(averageX[i])) // Перевіряємо чи є поточне середнє значення X у масиві початкових значень X
+        {
+            int index = Array.IndexOf(arrayX, averageX[i]);
+            regressionY[i] = arrayY[index];
+        }
+        else // Якщо співпадінь не було знайдено
+        {
+            double lowerBoundX = arrayX.Where(v => v <= valuesX[i]).Max();
+            double upperBoundX = arrayX.Where(v => v >= valuesX[i]).Min();
 
-        double lowerBoundY = arrayY[Array.IndexOf(arrayX, lowerBoundX)];
-        double upperBoundY = arrayY[Array.IndexOf(arrayX, upperBoundX)];
+            double lowerBoundY = arrayY[Array.IndexOf(arrayX, lowerBoundX)];
+            double upperBoundY = arrayY[Array.IndexOf(arrayX, upperBoundX)];
 
-        regressionY[i] = lowerBoundY + ((upperBoundY - lowerBoundY) / (upperBoundX - lowerBoundX))
-            * (valuesX[i] - lowerBoundX);
+            regressionY[i] = lowerBoundY + ((upperBoundY - lowerBoundY) / (upperBoundX - lowerBoundX))
+                * (valuesX[i] - lowerBoundX);
+        }
     }
 
     return regressionY;

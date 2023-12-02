@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Approximation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89fec596910306df47f67163074f207b36a7b50d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9c95c12ab040f8af6c4dafc750f0a831b9fe58f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Approximation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Approximation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
