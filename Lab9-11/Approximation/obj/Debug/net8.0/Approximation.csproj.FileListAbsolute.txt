@@ -28,3 +28,18 @@ D:\Домашня робота університет\Чисельні мето�
 D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.pdb
 D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.genruntimeconfig.cache
 D:\Домашня робота університет\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\ref\Approximation.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.exe
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.deps.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.runtimeconfig.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\bin\Debug\net8.0\Approximation.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.AssemblyInfoInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.AssemblyInfo.cs
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.csproj.CoreCompileInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.sourcelink.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\refint\Approximation.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\Approximation.genruntimeconfig.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab9-11\Approximation\obj\Debug\net8.0\ref\Approximation.dll

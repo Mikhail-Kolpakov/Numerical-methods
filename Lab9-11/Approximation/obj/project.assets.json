@@ -8,24 +8,31 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "G:\\Visual Studio Components\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Домашня робота університет\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj",
+      "projectUniqueName": "D:\\Миша\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj",
       "projectName": "Approximation",
-      "projectPath": "D:\\Домашня робота університет\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj",
+      "projectPath": "D:\\Миша\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\Approximation.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Домашня робота університет\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\obj\\",
+      "outputPath": "D:\\Миша\\Чисельні методи\\Numerical-methods\\Lab9-11\\Approximation\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "G:\\Visual Studio Components\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

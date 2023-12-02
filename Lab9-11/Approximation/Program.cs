@@ -23,31 +23,9 @@ string[] formulasList = new string[n] {
 Console.OutputEncoding = Encoding.UTF8;
 InputData(X, Y);
 
-// Вираховуємо середньоарифметичні значення для X та Y
-double arithMeanX = X.Average();
-double arithMeanY = Y.Average();
+// Вираховуємо табличні значення
+CalculateTableData(X, Y, out double[] averageX, out double[] averageY, out double[] regressionY, out double[] absValues);
 
-// Вираховуємо середньогеометричні значення для X та Y
-double geomMeanX = X.Aggregate((current, next) => current * next);
-geomMeanX = Math.Pow(geomMeanX, 1.0 / X.Length);
-double geomMeanY = Y.Aggregate((current, next) => current * next);
-geomMeanY = Math.Pow(geomMeanY, 1.0 / Y.Length);
-
-// Вираховуємо середньогармонічні значення для X та Y
-double harmMeanX = X.Length / X.Sum(x => 1 / x);
-double harmMeanY = Y.Length / Y.Sum(y => 1 / y);
-
-// Знаходимо X середнє
-double[] values = new double[] { arithMeanX, geomMeanX, harmMeanX };
-double[] averageX = Enumerable.Range(0, n).Select(i => values[i % values.Length]).ToArray();
-
-// Знаходимо Y середнє
-values = [arithMeanY, geomMeanY, harmMeanY];
-double[] averageY = Enumerable.Range(0, n).Select(i => values[i / 3]).ToArray();
-
-double[] regressionY = CalculateRegression(averageX, X, Y); //Вираховуємо Y регресійне
-
-double[] absValues = CalculateAbsoluteValues(averageY, regressionY); // Розраховуємо абсолютні значення
 double minAbsValue = absValues.Min(); // Знаходимо найменше абсолютне значення
 int indexOfRecomendedFormula = Array.IndexOf(absValues, minAbsValue); //Знаходимо індекс рекомендованої формули
 
@@ -70,7 +48,7 @@ Console.WriteLine($"\nШукане рівняння: {FindFinalFormula(selectedF
 Console.WriteLine($"Коефіцієнт детермінації: {R2:f4}");
 Console.WriteLine($"Критерій Фішера: {fisher:f4}");
 
-void InputData(double[] X, double[] Y) {
+void InputData(double[] X, double[] Y) { // Метод для задання даних для обчислень
     Console.Write("Використати дані з варіанту #9?(yes/no): ");
     string agreement = Console.ReadLine()!.ToLower();
 
@@ -79,7 +57,7 @@ void InputData(double[] X, double[] Y) {
         agreement = Console.ReadLine()!.ToLower();
     }
 
-    if (agreement == "yes") { //якщо користувач обрав заготовлену умову
+    if (agreement == "yes") { // Якщо користувач обрав заготовлену умову
         Console.WriteLine("\nПочаткові дані: ");
         Console.Write($"X = {{ {string.Join("\t", X)} }} \n");
         Console.Write($"Y = {{ {string.Join("\t", Y)} }} \n\n");
@@ -102,6 +80,35 @@ void InputData(double[] X, double[] Y) {
     }
 }
 
+void CalculateTableData(double[] X, double[] Y, out double[] averageX, out double[] averageY,
+    out double[] regressionY, out double[] absValues) //Метод для знаходження табличних значень
+{
+    // Вираховуємо середньоарифметичні значення для X та Y
+    double arithMeanX = X.Average();
+    double arithMeanY = Y.Average();
+
+    // Вираховуємо середньогеометричні значення для X та Y
+    double geomMeanX = X.Aggregate((current, next) => current * next);
+    geomMeanX = Math.Pow(geomMeanX, 1.0 / X.Length);
+    double geomMeanY = Y.Aggregate((current, next) => current * next);
+    geomMeanY = Math.Pow(geomMeanY, 1.0 / Y.Length);
+
+    // Вираховуємо середньогармонічні значення для X та Y
+    double harmMeanX = X.Length / X.Sum(x => 1 / x);
+    double harmMeanY = Y.Length / Y.Sum(y => 1 / y);
+
+    // Знаходимо X середнє
+    double[] values = new double[] { arithMeanX, geomMeanX, harmMeanX };
+    averageX = Enumerable.Range(0, n).Select(i => values[i % values.Length]).ToArray();
+
+    // Знаходимо Y середнє
+    values = [arithMeanY, geomMeanY, harmMeanY];
+    averageY = Enumerable.Range(0, n).Select(i => values[i / 3]).ToArray();
+
+    regressionY = CalculateRegression(averageX, X, Y); //Вираховуємо Y регресійне
+    absValues = CalculateAbsoluteValues(averageY, regressionY); // Розраховуємо абсолютні значення
+}
+
 void DisplayTable(double[] averageX, double[] averageY, double[] regressionY, double[] finalValues) // Метод для виведення таблиці значень до консолі
 {
     Console.WriteLine("N\t|\tX-сер\t|\tY-сер\t|\tY^\t|\tФормула\t|");
@@ -109,7 +116,7 @@ void DisplayTable(double[] averageX, double[] averageY, double[] regressionY, do
         Console.WriteLine($"{i + 1}\t|\t{averageX[i]:f4}\t|\t{averageY[i]:f4}\t|\t{regressionY[i]:f5}\t|\t{finalValues[i]:f5}\t|");
 }
 
-double[] CalculateRegression(double[] valuesX, double[] arrayX, double[] arrayY) // Метод для знаходження y регресійного
+double[] CalculateRegression(double[] valuesX, double[] arrayX, double[] arrayY) // Метод для знаходження Y регресійного
 {
     double[] regressionY = new double[arrayX.Length];
 
@@ -138,7 +145,8 @@ double[] CalculateAbsoluteValues(double[] averageY, double[] regressionY) // М�
     return finalValues;
 }
 
-void CalculateFinalAnswer(double[] X, double[] Y, int n, int formulaIndex, out double a0, out double a1, out double R2, out double fisher) // Метод для вирахування a0, a1, R2 та коеф. Фішера
+void CalculateFinalAnswer(double[] X, double[] Y, int n, int formulaIndex, out double a0, out double a1,
+    out double R2, out double fisher) // Метод для вирахування a0, a1, R2 та коеф. Фішера
 {
     MakeFormulaReplacements(formulaIndex, out double sumX, out double sumY, out double sumXY, out double sumX2, out double sumY2);
 
@@ -171,7 +179,8 @@ string FindFinalFormula(int selectedFormulaIndex, double a0, double a1) //Мет
     return formulaWithIncludedA0AndA1;
 }
 
-void MakeFormulaReplacements(int formulaIndex, out double sumX, out double sumY, out double sumXY, out double sumX2, out double sumY2) { // Метод для виконання разрахунків в залежності від обраної формули
+void MakeFormulaReplacements(int formulaIndex, out double sumX, out double sumY, out double sumXY,
+    out double sumX2, out double sumY2) { // Метод для виконання разрахунків в залежності від обраної формули
     switch (formulaIndex) {
         case 0:
             sumX = X.Sum();
