@@ -1,0 +1,15 @@
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\bin\Debug\net8.0\Integral.exe
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\bin\Debug\net8.0\Integral.deps.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\bin\Debug\net8.0\Integral.runtimeconfig.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\bin\Debug\net8.0\Integral.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\bin\Debug\net8.0\Integral.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\Integral.GeneratedMSBuildEditorConfig.editorconfig
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\Integral.AssemblyInfoInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\Integral.AssemblyInfo.cs
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\Integral.csproj.CoreCompileInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\Integral.sourcelink.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\Integral.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\refint\Integral.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\Integral.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\Integral.genruntimeconfig.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab12-13\Integral\obj\Debug\net8.0\ref\Integral.dll
