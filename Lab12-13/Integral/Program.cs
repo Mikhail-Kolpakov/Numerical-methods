@@ -32,7 +32,7 @@ void CalculateSimpson(float a, float b, float accuracy) // Головний ме
 
     while (Math.Abs(currentSimpson - prevSimpson) > accuracy)
     {
-        Console.WriteLine($"При n = {n} результат = {currentSimpson:f5}");
+        Console.WriteLine($"При n = {n} результат = {currentSimpson:f7}");
 
         n *= 2; // Подвоюємо кількість кроків
         prevSimpson = currentSimpson;
@@ -40,8 +40,8 @@ void CalculateSimpson(float a, float b, float accuracy) // Головний ме
     }
 
     Console.WriteLine($"\nКількість кроків n при кінцевому результаті: {n}");
-    Console.WriteLine($"Остаточний результат інтегрування: {currentSimpson:f5}");
-    Console.WriteLine($"Кінцева точність: {Math.Abs(currentSimpson - prevSimpson):f5}");
+    Console.WriteLine($"Остаточний результат інтегрування: {currentSimpson:f7}");
+    Console.WriteLine($"Кінцева точність: {Math.Abs(currentSimpson - prevSimpson):f7}");
 }
 
 float SimpsonIteration(float a, float b, int n) // Метод для обчислення інтегралу за формулою Сімпсона
