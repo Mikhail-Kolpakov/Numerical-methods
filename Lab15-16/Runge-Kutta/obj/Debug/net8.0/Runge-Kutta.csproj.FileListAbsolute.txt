@@ -1,0 +1,15 @@
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\bin\Debug\net8.0\Runge-Kutta.exe
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\bin\Debug\net8.0\Runge-Kutta.deps.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\bin\Debug\net8.0\Runge-Kutta.runtimeconfig.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\bin\Debug\net8.0\Runge-Kutta.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\bin\Debug\net8.0\Runge-Kutta.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\Runge-Kutta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\Runge-Kutta.AssemblyInfoInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\Runge-Kutta.AssemblyInfo.cs
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\Runge-Kutta.csproj.CoreCompileInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\Runge-Kutta.sourcelink.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\Runge-Kutta.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\refint\Runge-Kutta.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\Runge-Kutta.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\Runge-Kutta.genruntimeconfig.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\Runge-Kutta\obj\Debug\net8.0\ref\Runge-Kutta.dll
