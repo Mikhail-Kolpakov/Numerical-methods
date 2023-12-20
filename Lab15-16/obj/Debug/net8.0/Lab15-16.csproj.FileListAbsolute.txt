@@ -1,0 +1,15 @@
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\bin\Debug\net8.0\Lab15-16.exe
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\bin\Debug\net8.0\Lab15-16.deps.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\bin\Debug\net8.0\Lab15-16.runtimeconfig.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\bin\Debug\net8.0\Lab15-16.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\bin\Debug\net8.0\Lab15-16.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\Lab15-16.GeneratedMSBuildEditorConfig.editorconfig
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\Lab15-16.AssemblyInfoInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\Lab15-16.AssemblyInfo.cs
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\Lab15-16.csproj.CoreCompileInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\Lab15-16.sourcelink.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\Lab15-16.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\refint\Lab15-16.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\Lab15-16.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\Lab15-16.genruntimeconfig.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab15-16\obj\Debug\net8.0\ref\Lab15-16.dll
