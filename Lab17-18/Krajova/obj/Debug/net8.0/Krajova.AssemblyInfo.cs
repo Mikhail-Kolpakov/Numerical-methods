@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Runge-Kutta")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Krajova")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecda91bd1855141e635a1e3b974beeafb2b58730")]
-[assembly: System.Reflection.AssemblyProductAttribute("Runge-Kutta")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Runge-Kutta")]
+[assembly: System.Reflection.AssemblyProductAttribute("Krajova")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Krajova")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

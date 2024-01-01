@@ -1,0 +1,15 @@
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\bin\Debug\net8.0\Krajova.exe
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\bin\Debug\net8.0\Krajova.deps.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\bin\Debug\net8.0\Krajova.runtimeconfig.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\bin\Debug\net8.0\Krajova.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\bin\Debug\net8.0\Krajova.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\Krajova.GeneratedMSBuildEditorConfig.editorconfig
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\Krajova.AssemblyInfoInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\Krajova.AssemblyInfo.cs
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\Krajova.csproj.CoreCompileInputs.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\Krajova.sourcelink.json
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\Krajova.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\refint\Krajova.dll
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\Krajova.pdb
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\Krajova.genruntimeconfig.cache
+D:\Миша\Чисельні методи\Numerical-methods\Lab17-18\Krajova\obj\Debug\net8.0\ref\Krajova.dll
