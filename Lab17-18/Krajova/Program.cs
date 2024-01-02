@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿// Варіант #9
+using System.Text;
 
 Console.OutputEncoding = Encoding.UTF8;
 
@@ -90,7 +91,7 @@ void DisplayResults(float[] y, float h, float a, int n, int count, float maxDiff
     Console.WriteLine($"\nКiлькiсть точок = {n}");
     Console.WriteLine($"h = {h:f12}");
     Display(y, h, a);
-    Console.WriteLine($"\nКінцевий крок: {h:12}");
+    Console.WriteLine($"\nКінцевий крок: {h:f12}");
     Console.WriteLine($"Метод було викликано: {count} раз");
     Console.WriteLine($"Похибка апроксимації: {maxDiff:f12}");
 }
@@ -117,7 +118,7 @@ float Di(float x, float h) =>
 float[] Solve(float h, int n, float border, float alpha1, float alpha2, float beta1, float beta2, float a, float b) // Метод основних розрахунків
 {
     // Ініціалізуємо списки
-    List<float> x = Enumerable.Range(0, n + 1).Select(i => border + i * h).ToList();
+    var x = Enumerable.Range(0, n + 1).Select(i => border + i * h).ToList();
     (float[] y, float[] s, float[] t) = (new float[n + 1], new float[n + 1], new float[n + 1]);
 
     // Задаємо коефіцієнти граничних умов
